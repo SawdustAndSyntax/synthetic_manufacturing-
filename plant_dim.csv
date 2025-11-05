@@ -1,0 +1,36 @@
+Plant_Key,Plant_Number,Plant_Description,Plant_Type,Address_Line1,City,State_Province,Postal_Code,Country
+1,PLT-101,Chicago Metals Supplier,MS,4772 Assembly Rd,Chicago,IL,29823,USA
+2,PLT-102,Milwaukee Metals Supplier,MS,9806 Commerce Blvd,Milwaukee,WI,65371,USA
+3,PLT-103,Ontario Distribution Center,DC,5888 Assembly Rd,Ontario,CA,89838,USA
+4,PLT-104,Oklahoma City Distribution Center,DC,8653 Commerce Blvd,Oklahoma City,OK,56272,USA
+5,PLT-105,Nashville Production Plant,PP,6461 Supply Ct,Nashville,TN,48167,USA
+6,PLT-106,Miami Recycling Plant,RP,5173 Assembly Rd,Miami,FL,28951,USA
+7,PLT-107,Dallas Metals Supplier,MS,8955 Logistics Way,Dallas,TX,81637,USA
+8,PLT-108,Providence Headquarters,HQ,5317 Supply Ct,Providence,RI,33309,USA
+9,PLT-109,Richmond Recycling Plant,RP,5293 Distribution Blvd,Richmond,VA,56950,USA
+10,PLT-110,Louisville 3rd Party Logistics,3PL,4621 Logistics Way,Louisville,KY,17967,USA
+11,PLT-111,Los Angeles Headquarters,HQ,6986 Commerce Blvd,Los Angeles,CA,58351,USA
+12,PLT-112,Savannah Production Plant,PP,4950 Commerce Park Rd,Savannah,GA,66174,USA
+13,PLT-113,Tampa Plastics Supplier,PS,6258 Commerce Blvd,Tampa,FL,55585,USA
+14,PLT-114,Cincinnati Plastics Supplier,PS,5221 Assembly Rd,Cincinnati,OH,20681,USA
+15,PLT-115,Omaha Distribution Center,DC,4034 Commerce Blvd,Omaha,NE,36153,USA
+16,PLT-116,Denver Production Plant,PP,4278 Supply Ct,Denver,CO,64369,USA
+17,PLT-117,Boston Distribution Center,DC,9116 Distribution Blvd,Boston,MA,16890,USA
+18,PLT-118,Fresno Recycling Plant,RP,8248 Assembly Rd,Fresno,CA,45870,USA
+19,PLT-119,Pittsburgh Distribution Center,DC,6861 Logistics Way,Pittsburgh,PA,27532,USA
+20,PLT-120,St. Paul Headquarters,HQ,1961 Commerce Blvd,St. Paul,MN,49192,USA
+21,PLT-121,Cleveland Production Plant,PP,8755 Commerce Park Rd,Cleveland,OH,87832,USA
+22,PLT-122,Austin Production Plant,PP,5806 Industrial Dr,Austin,TX,91522,USA
+23,PLT-123,Wichita Headquarters,HQ,1614 Harbor Pkwy,Wichita,KS,92471,USA
+24,PLT-124,Oshkosh Plastics Supplier,PS,9661 Distribution Blvd,Oshkosh,WI,45596,USA
+25,PLT-125,Elizabeth Production Plant,PP,3109 Logistics Way,Elizabeth,NJ,56561,USA
+26,PLT-126,Kansas City Metals Supplier,MS,9297 Commerce Blvd,Kansas City,MO,10205,USA
+27,PLT-127,Indianapolis Production Plant,PP,1427 Distribution Blvd,Indianapolis,IN,33824,USA
+28,PLT-128,Minneapolis Metals Supplier,MS,9765 Harbor Pkwy,Minneapolis,MN,56668,USA
+29,PLT-129,Newark Plastics Supplier,PS,6330 Foundry Ln,Newark,NJ,22746,USA
+30,PLT-130,Norfolk Headquarters,HQ,4297 Commerce Park Rd,Norfolk,VA,38547,USA
+31,PLT-131,Phoenix Plastics Supplier,PS,2698 Harbor Pkwy,Phoenix,AZ,52370,USA
+32,PLT-132,Rochester Production Plant,PP,3867 Harbor Pkwy,Rochester,NY,44605,USA
+33,PLT-133,Syracuse Plastics Supplier,PS,4582 Commerce Park Rd,Syracuse,NY,72759,USA
+34,PLT-134,Columbus Production Plant,PP,7496 Assembly Rd,Columbus,OH,54911,USA
+35,PLT-135,Worcester Distribution Center,DC,7175 Foundry Ln,Worcester,MA,62725,USA
